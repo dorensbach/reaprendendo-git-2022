@@ -6,3 +6,14 @@
 E também no site:
 (https://programadorviking.com.br/git-commit/)
 
+#### Comandos já usados/testados:
+
+```git
+git init
+git add .
+git commit -m "Primeiro commit."
+git remote add origin <github.com....>
+git push origin master
+git add arquivo-02
+git status
+```
