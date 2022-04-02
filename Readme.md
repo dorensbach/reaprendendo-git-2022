@@ -12,7 +12,7 @@ E também no site:
 git init
 git add .
 git commit -m "Primeiro commit."
-git remote add origin <github.com....>
+git remote add origin https://github.com/dorensbach/reaprendendo-git-2022.git
 git push origin master
 git add arquivo-02
 git status
