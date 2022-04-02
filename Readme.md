@@ -20,4 +20,7 @@ git status
 git checkout -b ramo2
 git checkout master
 git checkout ramo2
+
+git checkout -b ramo3
+git add arquivo-ramo3
 ```
