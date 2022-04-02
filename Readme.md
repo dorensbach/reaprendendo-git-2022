@@ -35,4 +35,7 @@ git checkout master
 git status
 git merge ramo2
 git push origin master
+
+# Ver diferenca entre 2 branch
+git diff master ramo2
 ```
