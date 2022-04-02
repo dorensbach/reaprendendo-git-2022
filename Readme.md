@@ -18,4 +18,6 @@ git add arquivo-02
 git status
 
 git checkout -b ramo2
+git checkout master
+git checkout ramo2
 ```
