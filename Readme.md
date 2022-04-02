@@ -9,6 +9,7 @@ E também no site:
 ### Comandos já usados/testados:
 
 ```git
+# Comandos basicos
 git init
 git add .
 git commit -m "Primeiro commit."
@@ -17,12 +18,21 @@ git push origin master
 git add arquivo-02
 git status
 
+# Adicionar um branch (ramo)
 git checkout -b ramo2
 git checkout master
 git checkout ramo2
+git push origin ramo2
 
+# Remover um branch
 git checkout -b ramo3
 git add arquivo-ramo3
 git branch -d ramo3
 git branch -D ramo3
+
+# Merge
+git checkout master
+git status
+git merge ramo2
+git push origin master
 ```
