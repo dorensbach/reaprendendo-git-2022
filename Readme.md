@@ -23,4 +23,6 @@ git checkout ramo2
 
 git checkout -b ramo3
 git add arquivo-ramo3
+git branch -d ramo3
+git branch -D ramo3
 ```
