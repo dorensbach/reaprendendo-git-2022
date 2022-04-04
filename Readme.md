@@ -9,6 +9,17 @@ E também no site:
 ### Comandos já usados/testados:
 
 ```git
+# Configuracao
+# Para o projeto
+git config --local
+# Configuracao global
+git config --global
+# Mudar apenas o nome no projeto
+git config --local user.name "Meu Nome"
+# Visualizar o nome/email
+git config user.name
+git config user.email
+
 # Comandos basicos
 git init
 git add .
@@ -52,6 +63,17 @@ git pull origin master
 
 # Mostra o historico de commits
 git log
+git log --oneline
+git log -p
+
+# Desfazer um commit
+# Pegar o codigo do commit com o git log
+git revert codigo
+# Usar o push para enviar o revert pro remote
+git push origin master
+
+# Para mostrar para o git quais arquivos ele não deve monitorar, criar um arquivo
+# com o nome .gitignore e incluir nele o nome dos arquivos que deverão ser ignorados.
 ```
 ### SSH
 #### Criar chave e adicionar ao ssh-agent
