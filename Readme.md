@@ -46,6 +46,9 @@ git remote -v
 git clone git@github.com:dorensbach/reaprendendo-git-2022.git
 #Tambem pode ser (HTTPS):
 git clone https://github.com/dorensbach/reaprendendo-git-2022.git
+
+# Buscar por alteracoes no servidor remoto
+git pull origin master
 ```
 ### SSH
 #### Criar chave e adicionar ao ssh-agent
