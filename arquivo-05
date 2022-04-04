@@ -1,1 +1,2 @@
-Arquivo criado no clone, para testar o git pull.
+Arquivo criado no "clone", para testar o git pull.||Linha editada no "original".
+Linha adicionada no "original" após o git pull. Pegou com sucesso as alterações feitas no "clone".

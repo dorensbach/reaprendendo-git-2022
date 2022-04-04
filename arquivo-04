@@ -1,4 +1,5 @@
 Arquivo criado no branch ramo2.
 Linha adicionada após o nono commit, no ramo2.
 Linha adicionada para testar um push com uma chave ssh.
-Linha adicionada no clone, para testar o git pull.
+Linha adicionada no "clone", para testar o git pull.||Linha editada no "original".
+Linha adicionada no "original" após o git pull. Pegou com sucesso as alterações feitas no "clone".
