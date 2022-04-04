@@ -41,6 +41,11 @@ git diff master ramo2
 
 # Listar os remotes existenes
 git remote -v
+
+# Clonar um repositorio (SSH)
+git clone git@github.com:dorensbach/reaprendendo-git-2022.git
+#Tambem pode ser (HTTPS):
+git clone https://github.com/dorensbach/reaprendendo-git-2022.git
 ```
 ### SSH
 #### Criar chave e adicionar ao ssh-agent
