@@ -49,6 +49,9 @@ git clone https://github.com/dorensbach/reaprendendo-git-2022.git
 
 # Buscar por alteracoes no servidor remoto
 git pull origin master
+
+# Mostra o historico de commits
+git log
 ```
 ### SSH
 #### Criar chave e adicionar ao ssh-agent
