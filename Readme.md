@@ -81,7 +81,7 @@ git push origin master
 ```
 ### SSH
 #### Criar chave e adicionar ao ssh-agent
-(https://docs.github.com/pt/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh)
+(https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 Importante usar o comando `eval "$(ssh-agent -s)"`
 #### Adicionar chave à conta
 (https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
